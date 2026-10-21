@@ -39,7 +39,7 @@ Close the game before editing `ncaa06-settings.toml`.
 
 The separately attached Source-Build package is for users who want to modify or rebuild the project. Follow its included build instructions.
 
-Download `NCAA06-Source-Build_Package.7z` from Releases for the complete build package. GitHub's automatically generated **Source code** archives contain the repository files and may not include that package's contents.
+Download `NCAA06-Source-Build_Package.zip` from Releases for the complete build package. GitHub's automatically generated **Source code** archives contain the repository files and may not include that package's contents.
 
 Keep all applicable license and third-party notices when redistributing.
 
