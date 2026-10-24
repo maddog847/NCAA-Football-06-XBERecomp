@@ -31,6 +31,8 @@ Close the game before editing `ncaa06-settings.toml`.
 - Windowed and borderless display modes.
 - Anisotropic filtering.
 - Alt+Enter or F11 toggles windowed/borderless mode.
+- The mouse cursor hides during fullscreen/borderless gameplay and returns when switching away or returning to windowed mode.
+- Press F12 to save a PNG screenshot to the `screenshots` folder beside the executable.
 - Keep `xbox_720p = false` for the tested configuration. Higher PC output resolutions can still be selected using `width` and `height`.
 - Save data is stored in `UDATA` on the emulated Xbox E: drive, inside the local `hdd` folder. Back up your `hdd` folder before upgrading.
 - If performance is poor, try `render_percent = 100`.
